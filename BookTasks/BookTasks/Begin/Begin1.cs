@@ -1,12 +1,5 @@
 ﻿using System;
 using static System.Math;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
-using System.Threading.Tasks;
-using Microsoft.Win32;
 
 namespace BookTasks.Begin
 {
